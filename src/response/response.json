@@ -1,0 +1,16 @@
+{
+    "responseCodeData": {
+        "succCode": {
+            "AES_ENCRYPT_SUCC001": "Data encrypted with aes successfully",
+            "BASE64_ENCRYPT_SUCC001": "Data encrypted with base64 successfully",
+            "AES_DECRYPT_SUCC001": "Data decrypted with aes successfully",
+            "BASE64_DECRYPT_SUCC001": "Data decrypted with base64 successfully"
+        },
+        "errCode": {
+            "AES_ENCRYPT_ERR001": "Error in data encryption with aes",
+            "BASE64_ENCRYPT_ERR001": "Error in data encryption with base64",
+            "AES_DECRYPT_ERR001": "Error in data decryption with aes",
+            "BASE64_DECRYPT_ERR001": "Error in data decryption with base64"
+        }
+    }
+}
